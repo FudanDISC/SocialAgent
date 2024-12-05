@@ -12,6 +12,12 @@ A collection of resources that investigate social agents.
 
 
 ## 📕 Tutorial
+| Part                           | Link                                                         |
+| ------------------------------ | ------------------------------------------------------------ |
+| Part I: Introduction           | [slides](https://github.com/FudanDISC/SocialAgent/blob/main/asset/part1.pdf) |
+| Part II: Individual Simulation | [slides](https://github.com/FudanDISC/SocialAgent/blob/main/asset/part2.pdf) |
+| Part III: Scenario Simulation  | [slides](https://github.com/FudanDISC/SocialAgent/blob/main/asset/part3.pdf) |
+| Part IV: Society Simulation    | [slides](https://github.com/FudanDISC/SocialAgent/blob/main/asset/part4.pdf) |
 
 
 ## 🔥 Paper List
