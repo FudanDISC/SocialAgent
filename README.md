@@ -43,8 +43,11 @@ A collection of resources that investigate social agents.
   - [Online Platform](#online-platform)
     - [Social Platforms](#social-platforms)
     - [Recommendation Environments](#recommendation-environments)
-Individual Simulation
-Characters
+      
+### **Individual Simulation**
+
+#### **Characters**
+
 - [18 Nov 2024]Xu et al.,Character is Destiny: Can Role-Playing Language Agents Make Persona-Driven Decisions?
 - [1 Mar 2024]Yu et al.,Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent
 - [16 Feb 2024]Shen et al.,RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models
@@ -61,7 +64,9 @@ Characters
 - [9 Oct 2023]Chen et al.,Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters
 - [12 Sep 2021]Brahman et al.,"Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding
 - [July 2023]Agrawal et al.,Multimodal Persona Based Generation of Comic Dialogs
-Demographics
+  
+#### **Demographics**
+
 - [1 Nov 2024]Xie et al.,Can Large Language Model Agents Simulate Human Trust Behavior?
 - [3 Dec 2024]Li et al.,CultureLLM: Incorporating Cultural Differences into Large Language Models
 - [28 Feb 2024]Sun et al.,Random Silicon Sampling: Simulating Human Sub-Population Opinion Using a Large Language Model Based on Group-Level Demographic Information
@@ -85,15 +90,21 @@ Demographics
 - [14 Sep 2022]Argyle et al.,Out of One, Many: Using Language Models to Simulate Human Samples
 - [23 Aug 2022]Liu et al.,Improving Personality Consistency in Conversation by Persona Extending
 - [10 May 2023]Karra et al.,Estimating the Personality of White-Box Language Models
-Scenario Simulation
-Dialog-Driven
-Social Interaction
+
+### **Scenario Simulation**
+
+#### **Dialog-Driven**
+
+##### **Social Interaction**
+
 - [5 Apr 2024]Yang et al.,Social Skill Training with Large Language Models
 - [4 Apr 2024]Ataei et al.,Elicitron: An LLM Agent-Based Simulation Framework for Design Requirements Elicitation
 - [1 May 2024]Yan et al.,Social Life Simulation for Non-Cognitive Skills Learning
 - [3 Aug 2024]Zhang et al.,Self-Emotion Blended Dialogue Generation in Social Simulation Agents
 - [22 Mar 2024]Zhou et al.,SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents
-Question Answering
+
+##### **Question Answering**
+
 - [4 Jun 2024]Xia et al.,Measuring Bargaining Abilities of LLMs: A Benchmark and a Buyer-Enhancement Method
 - [5 Sep 2024]Ma et al.,Debate on Graph: A Flexible and Reliable Reasoning Framework for Large Language Models
 - [23 May 2023]Du et al.,Improving Factuality and Reasoning in Language Models through Multiagent Debate
@@ -103,7 +114,9 @@ Question Answering
 - [9 Oct 2024]Liang et al.,Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate
 - [17 May 2023]Fu et al.,Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback
 - [24 Apr 2023]Hao et al.,ChatLLM Network: More Brains, More Intelligence
-Game
+
+##### **Game**
+
 - [11 May 2024]Xu et al.,Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf
 - [24 Oct 2023]Wang et al.,Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation
 - [27 May 2024]Zhang et al.,Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View
@@ -120,8 +133,11 @@ Game
 - [24 Jul 2024]Chi et al.,AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game
 - [13 Sep 2024]Chen et al.,S-Agents: Self-organizing Agents in Open-ended Environments
 
-Task-Driven
-Foundational and Applied Science
+
+#### **Task-Driven**
+
+##### **Foundational and Applied Science**
+
 - [23 May 2023]Hassan et al.,ChatGPT as your Personal Data Scientist
 - [18 Jul 2023]Wu et al.,Large Language Models Perform Diagnostic Reasoning
 - [8 Jan 2024]D'Arcy et al.,MARG: Multi-Agent Review Generation for Scientific Papers
@@ -136,13 +152,17 @@ Foundational and Applied Science
 - [21 Aug 2024]Xie et al.,DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework
 - [8 Nov 2024]Zhu et al.,AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models
 - [30 Mar 2023]Nair et al.,DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents
-Software Development
+
+##### **Software Development**
+
 - [15 Apr 2023]Dong et al.,Self-collaboration Code Generation via ChatGPT
 - [16 Jul 2023]Qian et al.,ChatDev: Communicative Agents for Software Development
 - [28 Dec 2023]Qian et al.,Experiential Co-Learning of Software-Developing Agents
 - [8 Apr 2024]Zhang et al.,AutoCodeRover: Autonomous Program Improvement
 - [7 May 2024]Qian et al.,Iterative Experience Refinement of Software-Developing Agents
-Other Industries
+
+##### **Other Industries**
+
 - [12 Jan 2023]Hamilton et al.,Blind Judgement: Agent-Based Supreme Court Modelling With GPT
 - [7 Sep 2023]Li et al.,TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance
 - [24 Sept 2023]Weiss et al.,Rethinking the Buyer’s Inspection Paradox in Information Markets with Language Agents
@@ -163,9 +183,13 @@ Other Industries
 - [23 May 2024]Zhang et al.,Towards efficient llm grounding for embodied multi-agent collaboration.
 - [5 Mar 2024]He et al.,SimuCourt: Building Judicial Decision-Making Agents with Real-world Judgement Documents
 - [11 Jun 2024]Qian et al.,Scaling Large-Language-Model-based Multi-Agent Collaboration
-Social Simulation
-General Economic
-Game Theory and Strategic Interactions
+
+### **Social Simulation**
+
+#### **General Economic**
+
+##### **Game Theory and Strategic Interactions**
+
 - [28 Aug 2024]Mensfelt et al.,Logic-Enhanced Language Model Agents for Trustworthy Social Simulations 
 - [19 Jun 2024]Fontana et al.,*Nicer than humans: How do large language models behave in the prisoner’s dilemma? * 
 - [5 Jun 2024]Mozikov et al.,The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games 
@@ -176,7 +200,9 @@ Game Theory and Strategic Interactions
 - [28 Nov 2023]Hua et al.,War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars 
 - [26 Oct 2023]Zhao et al.,CompeteAI: Understanding the Competition Dynamics in Large Language Model-based Agents 
 - [21 Aug 2023]Han et al.,"Guinea Pig Trials" Utilizing GPT: A Novel Smart Agent-Based Modeling Approach for Studying Firm Competition and Collusion 
-Economic Contexts
+
+##### **Economic Contexts**
+
 - [18 Oct 2024]Ji et al.,SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent
 - [14 Sep 2024]Chopra et al.,On the limits of agency in agent-based models
 - [8 Mar 2024]Zhou et al.,Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs
@@ -184,8 +210,11 @@ Economic Contexts
 - [20 Sep 2023]Ghaffarzadegan et al.,Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence
 - [11 Jul 2023]Williams et al.,Epidemic Modeling with Generative Agents
 - [18 Jan 2023]Horton et al.,Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?
-Sociology and Political Science
-Public Opinion Survey
+
+#### **Sociology and Political Science**
+
+##### **Public Opinion Survey**
+
 - [15 Nov 2024]Park et al.,Generative Agent Simulations of 1,000 People
 - [28 Oct 2024]Zhang et al.,ElectionSim: Massive Population Election Simulation Powered by Large Language Model Driven Agents
 - [28 Feb 2024]Sun et al.,Random Silicon Sampling: Simulating Human Sub-Population Opinion Using a Large Language Model Based on Group-Level Demographic Information
@@ -193,7 +222,9 @@ Public Opinion Survey
 - [12 Nov 2023]Xiao et al.,Simulating Public Administration Crisis: A Novel Generative Agent-Based Simulation System to Lower Technology Barriers in Social Science Research
 - [1 Nov 2023]Lee et al.,Can Large Language Models Capture Public Opinion about Global Warming? An Empirical Assessment of Algorithmic Fidelity and Bias
 - [14 Sep 2022]Argyle et al.,Out of One, Many: Using Language Models to Simulate Human Samples
-Individual and Organizational Behavior Observation
+
+##### **Individual and Organizational Behavior Observation**
+
 - [18 Oct 2024]Tang et al.,Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation
 - [5 Aug 2024]Zhu et al.,Generative Organizational Behavior Simulation using Large Language Model based Autonomous Agents: A Holacracy Perspective
 - [18 Jun 2024]Jin et al.,AgentReview: Exploring Peer Review Dynamics with LLM Agents
@@ -211,8 +242,11 @@ Individual and Organizational Behavior Observation
 - [1 Nov 2023]Chuang et al.,Simulating Public Opinion about Global Warming: An Empirical Assessment of Algorithmic Fidelity and Bias
 - [18 Aug 2022]Aher et al.,Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies
 - [7 Aug 2023]Li et al.,Quantifying the Impact of Large Language Models on Collective Opinion Dynamics
-Online Platform
-Social Platforms
+
+#### **Online Platform**
+
+##### **Social Platforms**
+
 - [18 Nov 2024]Yang et al.,OASIS: Open Agent Social Interaction Simulations with One Million Agents
 - [2 Nov 2024]Zhang et al.,A Large-scale Time-aware Agents Simulation for Influencer Selection in Digital Advertising Campaigns
 - [24 Oct 2024]Liu et al.,From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution
@@ -228,7 +262,9 @@ Social Platforms
 - [7 Apr 2023]Park et al.,Social Simulacra: Creating Populated Prototypes for Social Computing Systems
 - [18 Aug 2022]Park et al.,Social Simulacra: Creating Populated Prototypes for Social Computing Systems
 - [7 Aug 2023]Ren et al.,BASES: Large-scale Web Search User Simulation with Large Language Model based Agents
-Recommendation Environments
+
+##### **Recommendation Environments**
+
 - [28 Feb 2024]Zhang et al.,Prospect Personalized Recommendation on Large Language Model-based Agent Platform
 - [16 Oct 2023]Zhang et al.,On Generative Agents in Recommendation
 - [13 Oct 2023]Zhang et al.,AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems
