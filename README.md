@@ -50,7 +50,7 @@ A collection of resources that investigate social agents.
 
 - [16 Dec 2024] [Zhou et al., *CharacterBench: Benchmarking Character Customization of Large Language Models*](https://arxiv.org/abs/2412.11912)
 - [9 Dec 2024] [Wang et al., *Simulating Human-like Daily Activities with Desire-driven Autonomy*](https://arxiv.org/abs/2412.06435)
-- [7 Dec 2024] [Wang et al., *CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds*)(https://arxiv.org/abs/2412.05631)
+- [7 Dec 2024] [Wang et al., *CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds*](https://arxiv.org/abs/2412.05631)
 - [4 Dec 2024] [Kim et al., *LLM-Mirror: A Generated-Persona Approach for Survey Pre-Testing*](https://arxiv.org/abs/2412.03162)
 - [18 Nov 2024] [Xu et al., *Character is Destiny: Can Role-Playing Language Agents Make Persona-Driven Decisions?*](https://arxiv.org/abs/2404.12138)
 - [1 Mar 2024] [Yu et al., *Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent*](https://arxiv.org/abs/2402.13717)
