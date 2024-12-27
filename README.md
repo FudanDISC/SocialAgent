@@ -104,7 +104,7 @@ A collection of resources that investigate social agents.
 
 ##### **Social Interaction**
 
-- [35 Oct 2024] [Mou et al., *AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios*](https://arxiv.org/abs/2410.19346)
+- [25 Oct 2024] [Mou et al., *AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios*](https://arxiv.org/abs/2410.19346)
 - [3 Aug 2024] [Zhang et al., *Self-Emotion Blended Dialogue Generation in Social Simulation Agents*](https://arxiv.org/abs/2408.01633)
 - [1 May 2024] [Yan et al., *Social Life Simulation for Non-Cognitive Skills Learning*](https://arxiv.org/abs/2405.00273)
 - [5 Apr 2024] [Yang et al., *Social Skill Training with Large Language Models*](https://arxiv.org/abs/2404.04204)
@@ -128,7 +128,6 @@ A collection of resources that investigate social agents.
 
 
 ##### **Game**
-
 
 - [13 Oct 2024] [Lan et al., *LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay*](https://arxiv.org/abs/2310.14985)
 - [13 Sep 2024] [Chen et al., *S-Agents: Self-organizing Agents in Open-ended Environments*](https://arxiv.org/abs/2402.04578)
