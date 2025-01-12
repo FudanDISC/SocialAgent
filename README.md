@@ -70,7 +70,7 @@ A collection of resources that investigate social agents.
 - [12 Sep 2021] [Brahman et al., *"Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding*](https://arxiv.org/abs/2109.05438)
 
 #### **Demographics**
-
+- [9 Jan 2025] [Balog and Zhai, *User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation*](https://arxiv.org/abs/2501.04410)
 - [3 Dec 2024] [Li et al., *CultureLLM: Incorporating Cultural Differences into Large Language Models*](https://arxiv.org/abs/2402.10946)
 - [1 Nov 2024] [Xie et al., *Can Large Language Model Agents Simulate Human Trust Behavior?*](https://arxiv.org/abs/2402.04559)
 - [4 Oct 2024] [Huang et al., *Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench*](https://arxiv.org/abs/2308.03656)
@@ -249,6 +249,7 @@ A collection of resources that investigate social agents.
 
 ##### **Individual and Organizational Behavior Observation**
 - [10 Dec 2024] [Li et al., *Political Actor Agent: Simulating Legislative System for Roll Call Votes Prediction with Large Language Models*](https://arxiv.org/abs/2412.07144)
+- [9 Dec 2024] [Wang et al., *Simulating Human-like Daily Activities with Desire-driven Autonomy*](https://arxiv.org/abs/2412.06435)
 - [20 Nov 2024] [Copollilo et al., *Engagement-Driven Content Generation with Large Language Models*](https://arxiv.org/abs/2411.13187)
 - [5 Nov 2024] [Takata et al., *Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities*](https://arxiv.org/abs/2411.03252)
 - [18 Oct 2024] [Tang et al., *Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation*](https://arxiv.org/abs/2410.14251)
@@ -272,7 +273,7 @@ A collection of resources that investigate social agents.
 #### **Online Platform**
 
 ##### **Social Platforms**
-
+- [27 Dec 2024] [Jiang et al., *Casevo: A Cognitive Agents and Social Evolution Simulator*](https://arxiv.org/abs/2412.19498)
 - [14 Dec 2024] [Zhang et al., *TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System*](https://arxiv.org/abs/2412.12196)
 - [29 Nov 2024] [Jin et al., *Build An Influential Bot In Social Media Simulations With Large Language Models*](https://arxiv.org/abs/2411.19635)
 - [25 Nov 2024] [Ferraro et al., *Agent-Based Modelling Meets Generative AI in Social Network Simulations*](https://arxiv.org/abs/2411.16031)
