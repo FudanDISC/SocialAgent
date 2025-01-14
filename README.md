@@ -148,6 +148,7 @@ A collection of resources that investigate social agents.
 #### **Task-Driven**
 
 ##### **Foundational and Applied Science**
+- [5 Jan 2025] [Rouzrokh and Shariatnia, *LatteReview: A Multi-Agent Framework for Systematic Review Automation Using Large Language Models*](https://arxiv.org/abs/2501.05468)
 - [23 Dec 2024] [Yu et al., *ResearchTown: Simulator of Human Research Community*](https://arxiv.org/abs/2412.17767)
 - [8 Nov 2024] [Zhu et al., *AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models*](https://dl.acm.org/doi/10.14778/3685800.3685816)
 - [21 Aug 2024] [Xie et al., *DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework*](https://arxiv.org/abs/2408.11788)
