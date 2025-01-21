@@ -148,6 +148,8 @@ A collection of resources that investigate social agents.
 #### **Task-Driven**
 
 ##### **Foundational and Applied Science**
+- [11 Jan 2025] [Tang etal., *ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning*](https://arxiv.org/abs/2501.06590)
+- [7 Jan 2025] [Zheng et l., *PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides*](https://arxiv.org/abs/2501.03936)
 - [5 Jan 2025] [Rouzrokh and Shariatnia, *LatteReview: A Multi-Agent Framework for Systematic Review Automation Using Large Language Models*](https://arxiv.org/abs/2501.05468)
 - [23 Dec 2024] [Yu et al., *ResearchTown: Simulator of Human Research Community*](https://arxiv.org/abs/2412.17767)
 - [8 Nov 2024] [Zhu et al., *AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models*](https://dl.acm.org/doi/10.14778/3685800.3685816)
@@ -240,6 +242,7 @@ A collection of resources that investigate social agents.
 - [6 Dec 2024] [Ju et al., *Sense and Sensitivity: Evaluating the simulation of social dynamics via Large Language Models*](https://arxiv.org/abs/2412.05093)
 - [15 Nov 2024] [Park et al., *Generative Agent Simulations of 1,000 People*](https://arxiv.org/abs/2411.10109)
 - [28 Oct 2024] [Zhang et al., *ElectionSim: Massive Population Election Simulation Powered by Large Language Model Driven Agents*](https://arxiv.org/abs/2410.20746)
+- [21 Oct 2024] [Yu et al., *Will Trump Win in 2024? Predicting the US Presidential Election via Multi-step Reasoning with Large Language Models*](https://arxiv.org/abs/2411.03321v1)
 - [6 May 2024] [Chaudhary et al., *Large Language Models as Instruments of Power: New Regimes of Autonomous Manipulation and Control*](https://arxiv.org/abs/2405.03813)
 - [28 Feb 2024] [Sun et al., *Random Silicon Sampling: Simulating Human Sub-Population Opinion Using a Large Language Model Based on Group-Level Demographic Information*](https://arxiv.org/abs/2402.18144)
 - [12 Nov 2023] [Xiao et al., *Simulating Public Administration Crisis: A Novel Generative Agent-Based Simulation System to Lower Technology Barriers in Social Science Research*](https://arxiv.org/abs/2311.06957)
