@@ -47,7 +47,8 @@ A collection of resources that investigate social agents.
 ### **Individual Simulation**
 
 #### **Characters**
-
+- [20 Feb 2025] [Li et al., *How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation*](https://arxiv.org/abs/2502.14642)
+- [17 Feb 2025] [Bhandari et al., *Can LLM Agents Maintain a Persona in Discourse?*](https://arxiv.org/abs/2502.11843)
 - [16 Dec 2024] [Zhou et al., *CharacterBench: Benchmarking Character Customization of Large Language Models*](https://arxiv.org/abs/2412.11912)
 - [9 Dec 2024] [Wang et al., *Simulating Human-like Daily Activities with Desire-driven Autonomy*](https://arxiv.org/abs/2412.06435)
 - [7 Dec 2024] [Wang et al., *CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds*](https://arxiv.org/abs/2412.05631)
@@ -70,6 +71,7 @@ A collection of resources that investigate social agents.
 - [12 Sep 2021] [Brahman et al., *"Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding*](https://arxiv.org/abs/2109.05438)
 
 #### **Demographics**
+- [17 Feb 2025] [Wang et al., *Personality Structured Interview for Large Language Model Simulation in Personality Research*](https://arxiv.org/abs/2502.12109)
 - [9 Jan 2025] [Balog and Zhai, *User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation*](https://arxiv.org/abs/2501.04410)
 - [3 Dec 2024] [Li et al., *CultureLLM: Incorporating Cultural Differences into Large Language Models*](https://arxiv.org/abs/2402.10946)
 - [1 Nov 2024] [Xie et al., *Can Large Language Model Agents Simulate Human Trust Behavior?*](https://arxiv.org/abs/2402.04559)
@@ -128,7 +130,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Game**
-
+- [24 Jan 2025] [Ye et al., *Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game*](https://arxiv.org/abs/2501.14225)
 - [13 Oct 2024] [Lan et al., *LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay*](https://arxiv.org/abs/2310.14985)
 - [13 Sep 2024] [Chen et al., *S-Agents: Self-organizing Agents in Open-ended Environments*](https://arxiv.org/abs/2402.04578)
 - [29 Aug 2024] [Du et al., *Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game*](https://arxiv.org/abs/2404.01602)
@@ -178,7 +180,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Other Industries**
-
+- [8 Feb 2025] [Yue et al., *Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction*](https://arxiv.org/abs/2502.06882)
 - [18 Dec 2024] [Xu et al., *TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks*](https://arxiv.org/pdf/2412.14161)
 - [23 Nov 2024] [Liu et al., *The Decoy Dilemma in Online Medical Information Evaluation: A Comparative Study of Credibility Assessments by LLM and Human Judges*](https://arxiv.org/abs/2411.15396)
 - [5 Sep 2024] [Yu et al., *From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512)
@@ -252,6 +254,11 @@ A collection of resources that investigate social agents.
 
 
 ##### **Individual and Organizational Behavior Observation**
+
+- [18 Feb 2025] [Wang et al., *Investigating and Extending Homans' Social Exchange Theory with Large Language Model based Agents*](https://arxiv.org/abs/2502.12450)
+- [17 Feb 2025] [Qasmi et al., *Competing LLM Agents in a Non-Cooperative Game of Opinion Polarisation*](https://arxiv.org/abs/2502.11649)
+- [16 Feb 2025] [Zhao et al., *SCALE: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention*](https://arxiv.org/abs/2502.10937)
+- [12 Feb 2025] [Piao et al., *AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society*](https://arxiv.org/abs/2502.08691v1)
 - [10 Dec 2024] [Li et al., *Political Actor Agent: Simulating Legislative System for Roll Call Votes Prediction with Large Language Models*](https://arxiv.org/abs/2412.07144)
 - [9 Dec 2024] [Wang et al., *Simulating Human-like Daily Activities with Desire-driven Autonomy*](https://arxiv.org/abs/2412.06435)
 - [20 Nov 2024] [Copollilo et al., *Engagement-Driven Content Generation with Large Language Models*](https://arxiv.org/abs/2411.13187)
@@ -277,6 +284,7 @@ A collection of resources that investigate social agents.
 #### **Online Platform**
 
 ##### **Social Platforms**
+- [17 Feb 2024] [Qiu et al., *Can LLMs Simulate Social Media Engagement? A Study on Action-Guided Response Generation*](https://arxiv.org/abs/2502.12073)
 - [27 Dec 2024] [Jiang et al., *Casevo: A Cognitive Agents and Social Evolution Simulator*](https://arxiv.org/abs/2412.19498)
 - [14 Dec 2024] [Zhang et al., *TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System*](https://arxiv.org/abs/2412.12196)
 - [29 Nov 2024] [Jin et al., *Build An Influential Bot In Social Media Simulations With Large Language Models*](https://arxiv.org/abs/2411.19635)
