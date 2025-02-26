@@ -106,6 +106,7 @@ A collection of resources that investigate social agents.
 
 ##### **Social Interaction**
 
+- [21 Feb 2025] [Zhang et al., *SOTOPIA-Ω: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents*](https://arxiv.org/abs/2502.15538)
 - [25 Oct 2024] [Mou et al., *AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios*](https://arxiv.org/abs/2410.19346)
 - [3 Aug 2024] [Zhang et al., *Self-Emotion Blended Dialogue Generation in Social Simulation Agents*](https://arxiv.org/abs/2408.01633)
 - [1 May 2024] [Yan et al., *Social Life Simulation for Non-Cognitive Skills Learning*](https://arxiv.org/abs/2405.00273)
