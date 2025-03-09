@@ -71,6 +71,7 @@ A collection of resources that investigate social agents.
 - [12 Sep 2021] [Brahman et al., *"Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding*](https://arxiv.org/abs/2109.05438)
 
 #### **Demographics**
+- [4 Mar 2025] [Olteanu et al., *AI Automatons: AI Systems Intended to Imitate Humans*](https://arxiv.org/abs/2503.02250)
 - [17 Feb 2025] [Wang et al., *Personality Structured Interview for Large Language Model Simulation in Personality Research*](https://arxiv.org/abs/2502.12109)
 - [9 Jan 2025] [Balog and Zhai, *User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation*](https://arxiv.org/abs/2501.04410)
 - [3 Dec 2024] [Li et al., *CultureLLM: Incorporating Cultural Differences into Large Language Models*](https://arxiv.org/abs/2402.10946)
@@ -181,6 +182,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Other Industries**
+- [4 Mar 2025] [Xu et al., *FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting*](https://arxiv.org/abs/2503.02692)
 - [8 Feb 2025] [Yue et al., *Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction*](https://arxiv.org/abs/2502.06882)
 - [18 Dec 2024] [Xu et al., *TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks*](https://arxiv.org/pdf/2412.14161)
 - [23 Nov 2024] [Liu et al., *The Decoy Dilemma in Online Medical Information Evaluation: A Comparative Study of Credibility Assessments by LLM and Human Judges*](https://arxiv.org/abs/2411.15396)
