@@ -47,6 +47,7 @@ A collection of resources that investigate social agents.
 ### **Individual Simulation**
 
 #### **Characters**
+- [24 Feb 2025] [Feng et al., *Reasoning Does Not Necessarily Improve Role-Playing Ability*](https://arxiv.org/abs/2502.16940)
 - [20 Feb 2025] [Li et al., *How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation*](https://arxiv.org/abs/2502.14642)
 - [17 Feb 2025] [Bhandari et al., *Can LLM Agents Maintain a Persona in Discourse?*](https://arxiv.org/abs/2502.11843)
 - [16 Dec 2024] [Zhou et al., *CharacterBench: Benchmarking Character Customization of Large Language Models*](https://arxiv.org/abs/2412.11912)
@@ -213,6 +214,7 @@ A collection of resources that investigate social agents.
 
 ##### **Game Theory and Strategic Interactions**
 - [27 Feb 2025] [Jia et al., *Large Language Model Strategic Reasoning Evaluation through Behavioral Game Theory*](https://arxiv.org/abs/2502.20432)
+- [5 Dec 2024] [Feng et al., *A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios*](https://arxiv.org/abs/2412.03920)
 - [28 Aug 2024] [Han et al., *Static network structure cannot stabilize cooperation among Large Language Model agents*](https://arxiv.org/abs/2411.10294)
 - [28 Aug 2024] [Mensfelt et al., *Logic-Enhanced Language Model Agents for Trustworthy Social Simulations*](https://arxiv.org/abs/2408.16081)
 - [19 Jun 2024] [Fontana et al., *Nicer than humans: How do large language models behave in the prisoner’s dilemma?*](https://arxiv.org/abs/2406.13605)
