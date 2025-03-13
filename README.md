@@ -212,7 +212,7 @@ A collection of resources that investigate social agents.
 #### **General Economic**
 
 ##### **Game Theory and Strategic Interactions**
-
+- [27 Feb 2025] [Jia et al., *Large Language Model Strategic Reasoning Evaluation through Behavioral Game Theory*](https://arxiv.org/abs/2502.20432)
 - [28 Aug 2024] [Han et al., *Static network structure cannot stabilize cooperation among Large Language Model agents*](https://arxiv.org/abs/2411.10294)
 - [28 Aug 2024] [Mensfelt et al., *Logic-Enhanced Language Model Agents for Trustworthy Social Simulations*](https://arxiv.org/abs/2408.16081)
 - [19 Jun 2024] [Fontana et al., *Nicer than humans: How do large language models behave in the prisoner’s dilemma?*](https://arxiv.org/abs/2406.13605)
@@ -228,7 +228,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Economic Contexts**
-
+- [25 Feb 2025] [Ma et al., *LLM Knows Geometry Better than Algebra: Numerical Understanding of LLM-Based Agents in A Trading Arena*](https://arxiv.org/abs/2502.17967)
 - [21 Nov 2024] [Dizaji ,*Incentives to Build Houses, Trade Houses, or Trade House Building Skills in Simulated Worlds under Various Governing Systems or Institutions: Comparing Multi-agent Reinforcement Learning to Generative Agent-based Model*](https://arxiv.org/abs/2411.17724)
 - [18 Oct 2024] [Ji et al., *SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent*](https://arxiv.org/abs/2410.14152)
 - [14 Sep 2024] [Chopra et al., *On the limits of agency in agent-based models*](https://arxiv.org/abs/2409.10568)
@@ -243,7 +243,7 @@ A collection of resources that investigate social agents.
 #### **Sociology and Political Science**
 
 ##### **Public Opinion Survey**
-
+- [12 Feb 2025] [Piao et al., *AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society*](https://arxiv.org/abs/2502.08691)
 - [6 Dec 2024] [Ju et al., *Sense and Sensitivity: Evaluating the simulation of social dynamics via Large Language Models*](https://arxiv.org/abs/2412.05093)
 - [15 Nov 2024] [Park et al., *Generative Agent Simulations of 1,000 People*](https://arxiv.org/abs/2411.10109)
 - [28 Oct 2024] [Zhang et al., *ElectionSim: Massive Population Election Simulation Powered by Large Language Model Driven Agents*](https://arxiv.org/abs/2410.20746)
@@ -257,7 +257,8 @@ A collection of resources that investigate social agents.
 
 
 ##### **Individual and Organizational Behavior Observation**
-
+- [10 Mar 2025] [Nasim et al。, *Simulating Influence Dynamics with LLM Agents*](https://arxiv.org/abs/2503.08709)
+- [26 Feb 2025] [Cau et al., *Language-Driven Opinion Dynamics in Agent-Based Simulations with LLMs*](https://arxiv.org/abs/2502.19098)
 - [18 Feb 2025] [Wang et al., *Investigating and Extending Homans' Social Exchange Theory with Large Language Model based Agents*](https://arxiv.org/abs/2502.12450)
 - [17 Feb 2025] [Qasmi et al., *Competing LLM Agents in a Non-Cooperative Game of Opinion Polarisation*](https://arxiv.org/abs/2502.11649)
 - [16 Feb 2025] [Zhao et al., *SCALE: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention*](https://arxiv.org/abs/2502.10937)
@@ -287,7 +288,7 @@ A collection of resources that investigate social agents.
 #### **Online Platform**
 
 ##### **Social Platforms**
-- [17 Feb 2024] [Qiu et al., *Can LLMs Simulate Social Media Engagement? A Study on Action-Guided Response Generation*](https://arxiv.org/abs/2502.12073)
+- [17 Feb 2025] [Qiu et al., *Can LLMs Simulate Social Media Engagement? A Study on Action-Guided Response Generation*](https://arxiv.org/abs/2502.12073)
 - [27 Dec 2024] [Jiang et al., *Casevo: A Cognitive Agents and Social Evolution Simulator*](https://arxiv.org/abs/2412.19498)
 - [14 Dec 2024] [Zhang et al., *TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System*](https://arxiv.org/abs/2412.12196)
 - [29 Nov 2024] [Jin et al., *Build An Influential Bot In Social Media Simulations With Large Language Models*](https://arxiv.org/abs/2411.19635)
@@ -310,6 +311,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Recommendation Environments**
+- [19 Feb 2025] [Liu et al., *Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents*](https://arxiv.org/abs/2502.13843)
 - [12 Dec 2024] [Liu et al., *LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation*](https://arxiv.org/abs/2412.09237)
 - [28 Feb 2024] [Zhang et al., *Prospect Personalized Recommendation on Large Language Model-based Agent Platform*](https://arxiv.org/abs/2402.18240)
 - [16 Oct 2023] [Zhang et al., *On Generative Agents in Recommendation*](https://arxiv.org/abs/2310.10108)
