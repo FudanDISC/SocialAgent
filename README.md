@@ -47,9 +47,12 @@ A collection of resources that investigate social agents.
 ### **Individual Simulation**
 
 #### **Characters**
+- [11 Mar 2025] [Xu et al., *Guess What I am Thinking: A Benchmark for Inner Thought Reasoning of Role-Playing Language Agents*](https://arxiv.org/abs/2503.08193)
 - [24 Feb 2025] [Feng et al., *Reasoning Does Not Necessarily Improve Role-Playing Ability*](https://arxiv.org/abs/2502.16940)
 - [20 Feb 2025] [Li et al., *How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation*](https://arxiv.org/abs/2502.14642)
+- [18 Feb 2025] [Wang et al., *Beyond Profile: From Surface-Level Facts to Deep Persona Simulation in LLMs*](https://arxiv.org/abs/2502.12988v1)
 - [17 Feb 2025] [Bhandari et al., *Can LLM Agents Maintain a Persona in Discourse?*](https://arxiv.org/abs/2502.11843)
+- [13 Feb 2025] [Wang et al., *CoSER: Coordinating LLM-Based Persona Simulation of Established Roles*](https://arxiv.org/abs/2502.09082)
 - [16 Dec 2024] [Zhou et al., *CharacterBench: Benchmarking Character Customization of Large Language Models*](https://arxiv.org/abs/2412.11912)
 - [9 Dec 2024] [Wang et al., *Simulating Human-like Daily Activities with Desire-driven Autonomy*](https://arxiv.org/abs/2412.06435)
 - [7 Dec 2024] [Wang et al., *CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds*](https://arxiv.org/abs/2412.05631)
@@ -259,7 +262,9 @@ A collection of resources that investigate social agents.
 
 
 ##### **Individual and Organizational Behavior Observation**
-- [10 Mar 2025] [Nasim et al。, *Simulating Influence Dynamics with LLM Agents*](https://arxiv.org/abs/2503.08709)
+- [10 Mar 2025] [Nasim et al., *Simulating Influence Dynamics with LLM Agents*](https://arxiv.org/abs/2503.08709)
+- [5 Mar 2025] [Jimenez-Romero et al., *Multi-Agent Systems Powered by Large Language Models: Applications in Swarm Intelligence*](https://arxiv.org/abs/2503.03800)
+- [3 Mar 2025] [Borah et al., *Mind the (Belief) Gap: Group Identity in the World of LLMs*](https://arxiv.org/abs/2503.02016)
 - [26 Feb 2025] [Cau et al., *Language-Driven Opinion Dynamics in Agent-Based Simulations with LLMs*](https://arxiv.org/abs/2502.19098)
 - [18 Feb 2025] [Wang et al., *Investigating and Extending Homans' Social Exchange Theory with Large Language Model based Agents*](https://arxiv.org/abs/2502.12450)
 - [17 Feb 2025] [Qasmi et al., *Competing LLM Agents in a Non-Cooperative Game of Opinion Polarisation*](https://arxiv.org/abs/2502.11649)
