@@ -187,6 +187,7 @@ A collection of resources that investigate social agents.
 
 ##### **Other Industries**
 - [4 Mar 2025] [Xu et al., *FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting*](https://arxiv.org/abs/2503.02692)
+- [26 Feb 2025] [Lin et al., *FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models*](https://arxiv.org/abs/2502.17924)
 - [8 Feb 2025] [Yue et al., *Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction*](https://arxiv.org/abs/2502.06882)
 - [18 Dec 2024] [Xu et al., *TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks*](https://arxiv.org/pdf/2412.14161)
 - [23 Nov 2024] [Liu et al., *The Decoy Dilemma in Online Medical Information Evaluation: A Comparative Study of Credibility Assessments by LLM and Human Judges*](https://arxiv.org/abs/2411.15396)
@@ -295,6 +296,8 @@ A collection of resources that investigate social agents.
 #### **Online Platform**
 
 ##### **Social Platforms**
+- [26 Feb 2025] [Gu et al., *Large Language Model Driven Agents for Simulating Echo Chamber Formation*](https://arxiv.org/abs/2502.18138)
+- [25 Feb 2025] [Zheng et al., *AutoCas: Autoregressive Cascade Predictor in Social Networks via Large Language Models*](https://arxiv.org/abs/2502.18040)
 - [17 Feb 2025] [Qiu et al., *Can LLMs Simulate Social Media Engagement? A Study on Action-Guided Response Generation*](https://arxiv.org/abs/2502.12073)
 - [27 Dec 2024] [Jiang et al., *Casevo: A Cognitive Agents and Social Evolution Simulator*](https://arxiv.org/abs/2412.19498)
 - [14 Dec 2024] [Zhang et al., *TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System*](https://arxiv.org/abs/2412.12196)
