@@ -136,6 +136,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Game**
+- [17 Mar 2025] [Sudhakar et al., *A Generalist Hanabi Agent*](https://arxiv.org/abs/2503.14555)
 - [24 Jan 2025] [Ye et al., *Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game*](https://arxiv.org/abs/2501.14225)
 - [13 Oct 2024] [Lan et al., *LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay*](https://arxiv.org/abs/2310.14985)
 - [13 Sep 2024] [Chen et al., *S-Agents: Self-organizing Agents in Open-ended Environments*](https://arxiv.org/abs/2402.04578)
@@ -156,8 +157,9 @@ A collection of resources that investigate social agents.
 #### **Task-Driven**
 
 ##### **Foundational and Applied Science**
-- [11 Jan 2025] [Tang etal., *ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning*](https://arxiv.org/abs/2501.06590)
-- [7 Jan 2025] [Zheng et l., *PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides*](https://arxiv.org/abs/2501.03936)
+- [17 Mar 2025] [Liu et al., *VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning*](https://arxiv.org/abs/2503.13444)
+- [11 Jan 2025] [Tang et al., *ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning*](https://arxiv.org/abs/2501.06590)
+- [7 Jan 2025] [Zheng et al., *PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides*](https://arxiv.org/abs/2501.03936)
 - [5 Jan 2025] [Rouzrokh and Shariatnia, *LatteReview: A Multi-Agent Framework for Systematic Review Automation Using Large Language Models*](https://arxiv.org/abs/2501.05468)
 - [23 Dec 2024] [Yu et al., *ResearchTown: Simulator of Human Research Community*](https://arxiv.org/abs/2412.17767)
 - [8 Nov 2024] [Zhu et al., *AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models*](https://dl.acm.org/doi/10.14778/3685800.3685816)
@@ -176,7 +178,8 @@ A collection of resources that investigate social agents.
 
 
 ##### **Software Development**
-
+- [18 Mar 2025] [Jain et al., *TestForge: Feedback-Driven, Agentic Test Suite Generation*](https://arxiv.org/abs/2503.14713)
+- [18 Mar 2025] [Xu et al., *MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration*](https://arxiv.org/abs/2503.14340)
 - [8 Apr 2024] [Zhang et al., *AutoCodeRover: Autonomous Program Improvement*](https://arxiv.org/abs/2404.05427)
 - [7 May 2024] [Qian et al., *Iterative Experience Refinement of Software-Developing Agents*](https://arxiv.org/abs/2405.04219)
 - [28 Dec 2023] [Qian et al., *Experiential Co-Learning of Software-Developing Agents*](https://arxiv.org/abs/2312.17025)
