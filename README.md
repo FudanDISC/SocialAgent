@@ -111,6 +111,7 @@ A collection of resources that investigate social agents.
 
 ##### **Social Interaction**
 
+- [15 Apr 2025] [Guertler et al., *TextArena*](https://arxiv.org/abs/2504.11442)
 - [21 Feb 2025] [Zhang et al., *SOTOPIA-Ω: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents*](https://arxiv.org/abs/2502.15538)
 - [25 Oct 2024] [Mou et al., *AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios*](https://arxiv.org/abs/2410.19346)
 - [3 Aug 2024] [Zhang et al., *Self-Emotion Blended Dialogue Generation in Social Simulation Agents*](https://arxiv.org/abs/2408.01633)
@@ -252,6 +253,7 @@ A collection of resources that investigate social agents.
 #### **Sociology and Political Science**
 
 ##### **Public Opinion Survey**
+- [14 Apr 2025][Zhang et al., *SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users*](https://arxiv.org/abs/2504.10157)
 - [12 Feb 2025] [Piao et al., *AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society*](https://arxiv.org/abs/2502.08691)
 - [6 Dec 2024] [Ju et al., *Sense and Sensitivity: Evaluating the simulation of social dynamics via Large Language Models*](https://arxiv.org/abs/2412.05093)
 - [15 Nov 2024] [Park et al., *Generative Agent Simulations of 1,000 People*](https://arxiv.org/abs/2411.10109)
@@ -324,6 +326,9 @@ A collection of resources that investigate social agents.
 
 
 ##### **Recommendation Environments**
+- [17 Apr 2025] [Bougie and Watanabe, *SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation*](https://arxiv.org/abs/2504.12722)
+- [9 Apr 2025] [Zhao et al., *Exploring the Impact of Personality Traits on Conversational Recommender Systems: A Simulation with Large Language Models*](https://arxiv.org/abs/2504.12313)
+- [23 Mar 2025] [Sukiennik et al., *Simulating Filter Bubble on Short-video Recommender System with Large Language Model Agents*](https://arxiv.org/abs/2504.08742)
 - [19 Feb 2025] [Liu et al., *Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents*](https://arxiv.org/abs/2502.13843)
 - [12 Dec 2024] [Liu et al., *LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation*](https://arxiv.org/abs/2412.09237)
 - [28 Feb 2024] [Zhang et al., *Prospect Personalized Recommendation on Large Language Model-based Agent Platform*](https://arxiv.org/abs/2402.18240)
