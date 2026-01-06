@@ -326,6 +326,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Recommendation Environments**
+- [6 Jan 2026] [Bougie et al., *AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation*](https://arxiv.org/abs/2601.00930)
 - [17 Apr 2025] [Bougie and Watanabe, *SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation*](https://arxiv.org/abs/2504.12722)
 - [9 Apr 2025] [Zhao et al., *Exploring the Impact of Personality Traits on Conversational Recommender Systems: A Simulation with Large Language Models*](https://arxiv.org/abs/2504.12313)
 - [23 Mar 2025] [Sukiennik et al., *Simulating Filter Bubble on Short-video Recommender System with Large Language Model Agents*](https://arxiv.org/abs/2504.08742)
