@@ -238,6 +238,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Economic Contexts**
+- [25 Dec 2025] [Yang et al., *TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets*](https://arxiv.org/abs/2502.01506)
 - [25 Feb 2025] [Ma et al., *LLM Knows Geometry Better than Algebra: Numerical Understanding of LLM-Based Agents in A Trading Arena*](https://arxiv.org/abs/2502.17967)
 - [21 Nov 2024] [Dizaji ,*Incentives to Build Houses, Trade Houses, or Trade House Building Skills in Simulated Worlds under Various Governing Systems or Institutions: Comparing Multi-agent Reinforcement Learning to Generative Agent-based Model*](https://arxiv.org/abs/2411.17724)
 - [18 Oct 2024] [Ji et al., *SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent*](https://arxiv.org/abs/2410.14152)
