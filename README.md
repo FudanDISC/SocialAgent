@@ -326,6 +326,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Recommendation Environments**
+- [14 Apr 2026] [Bougie and Watanabe, *Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation*](https://arxiv.org/abs/2604.09549)
 - [17 Apr 2025] [Bougie and Watanabe, *SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation*](https://arxiv.org/abs/2504.12722)
 - [9 Apr 2025] [Zhao et al., *Exploring the Impact of Personality Traits on Conversational Recommender Systems: A Simulation with Large Language Models*](https://arxiv.org/abs/2504.12313)
 - [23 Mar 2025] [Sukiennik et al., *Simulating Filter Bubble on Short-video Recommender System with Large Language Model Agents*](https://arxiv.org/abs/2504.08742)
