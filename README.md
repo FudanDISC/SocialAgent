@@ -190,6 +190,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Other Industries**
+- [5 Jun 2026] [Bougie et al., *PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation*](https://arxiv.org/abs/2606.05697)
 - [4 Mar 2025] [Xu et al., *FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting*](https://arxiv.org/abs/2503.02692)
 - [26 Feb 2025] [Lin et al., *FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models*](https://arxiv.org/abs/2502.17924)
 - [8 Feb 2025] [Yue et al., *Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction*](https://arxiv.org/abs/2502.06882)
