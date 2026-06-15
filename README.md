@@ -75,6 +75,7 @@ A collection of resources that investigate social agents.
 - [12 Sep 2021] [Brahman et al., *"Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding*](https://arxiv.org/abs/2109.05438)
 
 #### **Demographics**
+- [4 Jun 2026] [Bougie et al., *PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation*](https://arxiv.org/abs/2606.05697)
 - [4 Mar 2025] [Olteanu et al., *AI Automatons: AI Systems Intended to Imitate Humans*](https://arxiv.org/abs/2503.02250)
 - [17 Feb 2025] [Wang et al., *Personality Structured Interview for Large Language Model Simulation in Personality Research*](https://arxiv.org/abs/2502.12109)
 - [9 Jan 2025] [Balog and Zhai, *User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation*](https://arxiv.org/abs/2501.04410)
@@ -268,6 +269,7 @@ A collection of resources that investigate social agents.
 
 
 ##### **Individual and Organizational Behavior Observation**
+- [26 Jun 2025] [Bougie and Watanabe, *CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation*](https://arxiv.org/abs/2506.21805)
 - [10 Mar 2025] [Nasim et al., *Simulating Influence Dynamics with LLM Agents*](https://arxiv.org/abs/2503.08709)
 - [5 Mar 2025] [Jimenez-Romero et al., *Multi-Agent Systems Powered by Large Language Models: Applications in Swarm Intelligence*](https://arxiv.org/abs/2503.03800)
 - [3 Mar 2025] [Borah et al., *Mind the (Belief) Gap: Group Identity in the World of LLMs*](https://arxiv.org/abs/2503.02016)
@@ -326,6 +328,8 @@ A collection of resources that investigate social agents.
 
 
 ##### **Recommendation Environments**
+- [26 Jan 2026] [Bougie et al., *Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation*](https://arxiv.org/abs/2604.09549)
+- [2 Jan 2026] [Bougie et al., *AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation*](https://arxiv.org/abs/2601.00930)
 - [17 Apr 2025] [Bougie and Watanabe, *SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation*](https://arxiv.org/abs/2504.12722)
 - [9 Apr 2025] [Zhao et al., *Exploring the Impact of Personality Traits on Conversational Recommender Systems: A Simulation with Large Language Models*](https://arxiv.org/abs/2504.12313)
 - [23 Mar 2025] [Sukiennik et al., *Simulating Filter Bubble on Short-video Recommender System with Large Language Model Agents*](https://arxiv.org/abs/2504.08742)
