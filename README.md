@@ -111,6 +111,7 @@ A collection of resources that investigate social agents.
 
 ##### **Social Interaction**
 
+- [2026] [Lin et al., *EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation*](https://edumirror.net/assets/EduMirror.pdf)
 - [15 Apr 2025] [Guertler et al., *TextArena*](https://arxiv.org/abs/2504.11442)
 - [21 Feb 2025] [Zhang et al., *SOTOPIA-Ω: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents*](https://arxiv.org/abs/2502.15538)
 - [25 Oct 2024] [Mou et al., *AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios*](https://arxiv.org/abs/2410.19346)
@@ -268,6 +269,9 @@ A collection of resources that investigate social agents.
 
 
 ##### **Individual and Organizational Behavior Observation**
+- [14 Mar 2026] [Lin et al., *Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions*](https://arxiv.org/abs/2603.13890)
+- [14 Mar 2026] [Liao et al., *How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation*](https://arxiv.org/abs/2603.13876)
+- [22 Sep 2025] [Zhou et al., *Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution*](https://arxiv.org/abs/2509.17703)
 - [10 Mar 2025] [Nasim et al., *Simulating Influence Dynamics with LLM Agents*](https://arxiv.org/abs/2503.08709)
 - [5 Mar 2025] [Jimenez-Romero et al., *Multi-Agent Systems Powered by Large Language Models: Applications in Swarm Intelligence*](https://arxiv.org/abs/2503.03800)
 - [3 Mar 2025] [Borah et al., *Mind the (Belief) Gap: Group Identity in the World of LLMs*](https://arxiv.org/abs/2503.02016)
