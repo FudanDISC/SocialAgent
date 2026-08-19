@@ -253,6 +253,7 @@ A collection of resources that investigate social agents.
 #### **Sociology and Political Science**
 
 ##### **Public Opinion Survey**
+- [8 Jul 2026] [Bougie et al., *CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents*](https://arxiv.org/abs/2608.16897)
 - [14 Apr 2025][Zhang et al., *SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users*](https://arxiv.org/abs/2504.10157)
 - [12 Feb 2025] [Piao et al., *AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society*](https://arxiv.org/abs/2502.08691)
 - [6 Dec 2024] [Ju et al., *Sense and Sensitivity: Evaluating the simulation of social dynamics via Large Language Models*](https://arxiv.org/abs/2412.05093)
